@@ -6,6 +6,9 @@ export const environment = {
   production: false
 };
 
+export const SpotifyAPIKey = 'BQBB-kLnibXFvQ04OeBi1pAxYY-MVWQ-Wz0m4X20uDliYan9Ljxj-DwmkMklcC4th8x-EXlEh3NVGj4A7AI';
+
+
 /*
  * For easier debugging in development mode, you can import the following file
  * to ignore zone related error stack frames such as `zone.run`, `zoneDelegate.invokeTask`.
